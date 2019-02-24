@@ -6,6 +6,8 @@ It turns out that we are going to do the flight manually and do the preprocessin
 
 We use the compass sensor (Hall effect sensor) in the drone to calibrate the unstable movement in the flight, so that it can fly in a straight line and the path is exactly parallel with the aisle. 
 
+Our automatic github for reference: https://github.com/elvisleung222/kerry-hackathon/
+
 ## However it doesn't work, it drifts a lot.
 
 We spent whole night debugging, but it still drifts a lot.
